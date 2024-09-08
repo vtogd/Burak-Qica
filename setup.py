@@ -8,7 +8,6 @@ setup(
         # List any dependencies here
     ],
     description='A description of my package',
-    long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/vtogd/Burak-Qica',
     author='VTOGD',
